@@ -1,0 +1,6 @@
+.loader {
+	height: 100%;
+	display: flex;
+    justify-content: center; /*Центрирование по горизонтали*/
+    align-items: center;
+}
